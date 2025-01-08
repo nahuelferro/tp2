@@ -1,14 +1,20 @@
 body { background-color:#2c3838;}
-    h1{color:#637a97;
+    h1{color:LightSlateGray;
         background-color: aliceblue;
         font-family: impact,charcoal,sans-serif;
         width: 100%;
         padding-left: 50%;
         padding-right: 50%;
     }
-    body{
-        p{color:aliceblue}
-        h2{color: antiquewhite;
-        font-size:2em ;}
+
+    p{color:aliceblue}
+
+    h2{
+        font-family:'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+        color: antiquewhite;
     }
-    
+    img{    
+        border : 5px solid  antiquewhite;
+        margin-left: 30px;
+        } 
+        
