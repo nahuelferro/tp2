@@ -17,17 +17,13 @@ body { background-color:#273238;
         font-size: 25px;
         font-family:'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
         color: #A1C1CB;
-        }
-
-         
+        } 
 
     h4{ text-transform: uppercase;
         font-size: 25px;
         font-family:'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
         color: #BCBDBF;
         }
-
-   
     
     h5{ text-transform: uppercase;
         font-size: 25px;
@@ -40,5 +36,3 @@ body { background-color:#273238;
         font-family:'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
         color: #B2B2AA;
         } 
-
-      
