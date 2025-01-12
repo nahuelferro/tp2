@@ -1,12 +1,12 @@
 body { background-color:#273238;
-    h1{color:#698593;
+    h1{color:#698593; 
         background-color: #FFFFFF;
         font-family: impact,charcoal,sans-serif;
         width: 100%;
         padding-left: 50%;
         }
     }
-    p{color:aliceblue}
+    p{color:aliceblue;    text-align: justify;}
 
     h2{ text-transform: uppercase;
         font-family:'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
