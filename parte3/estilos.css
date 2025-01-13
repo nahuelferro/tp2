@@ -1,6 +1,7 @@
 body{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: #3660A5;
+    line-height: 30px;
 }
 header{
     text-align: center;
@@ -17,4 +18,5 @@ h2{
     color: #BB5397;
     letter-spacing: 5px;
 }
+
 
