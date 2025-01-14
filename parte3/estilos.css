@@ -7,11 +7,12 @@ header{
     text-align: center;
 }
 h1{
-    text-align: center;        /* Cuando la pantalla es chica el titulo se superpone*/
+    text-align: center;       
     color: #BB5397;
     font-size: 3em;
     letter-spacing: 20px;
     font-weight: lighter;
+    line-height: 1.5;
 }
 h2{
     color: #BB5397;
@@ -19,5 +20,6 @@ h2{
 }
 
 img{
-   margin: 25px;
+   margin: 20px;
+   margin-left: 10px;margin-right: 10px;
 }
