@@ -12,12 +12,13 @@ h1{
     font-size: 3em;
     letter-spacing: 20px;
     font-weight: lighter;
-}
+    }
+    
 h2{
     color: #BB5397;
     letter-spacing: 5px;
 }
 
 img{
-   margin: 25px;
+    margin: 25px;
 }
